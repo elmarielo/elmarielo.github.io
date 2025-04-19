@@ -1,0 +1,38 @@
+h1 {
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+text-align: center;
+color: khaki;
+background-image: url("//content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+} /* Desmoto's Arts & Craft*/
+
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: mediumspringgreen;
+} /* Titoli per ogni articolo: Brushes, Frames e Paint */
+
+#brushes {
+    color: aliceblue;
+} 
+
+h3, p {
+    font-family: Helvetica;
+} /* Titoli e descrizioni dei prodotti */
+
+#frames {
+    color: aliceblue;
+    background-color: lightcoral;
+}
+
+#paint {
+    color: aliceblue;
+    background-color: skyblue;
+}
+
+strong {
+    color: blue;
+} /* Prezzo dei prodotti */
